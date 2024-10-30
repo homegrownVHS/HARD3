@@ -1,0 +1,37 @@
+Line Item,Quantity,Reference Designators,Manufacturer,Manufacturer P/N,Vendor,VPN,Description,Value
+1,25,"C1, C2, C3, C4, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C34",Vishay / BC Components,K104K15X7RF5TH5,Mouser,594-K104K15X7RF5TH5,Multilayer Ceramic Capacitors MLCC - Leaded RAD 50V 0.1uF X7R 10% LS:2.5mm,100n
+2,1,C33,Vishay / Sprague,K334K20X7RF5TH5,Mouser,594-K334K20X7RF5TH5,Multilayer Ceramic Capacitors MLCC - Leaded 0.33uF 50volts Z5U 20% 2.5mm L/S,330n
+3,8,"C25, C26, C27, C28, C29, C30, C31, C32",Panasonic,ECA-1HM100I,Mouser,667-ECA-1HM100I,Aluminum Electrolytic Capacitors - Radial Leaded 10UF 50V ELECT M RADIAL,10u
+4,6,"R7, R8, R9, R10, R11, R12",SEI Stackpole,CFM12JT75R0,Mouser,708-CFM12JT75R0,Carbon Film Resistors - Through Hole 75Ohms 1/2W 5% Mini Carbon,75R
+5,12,"R14, R15, R17, R18, R36, R40",KOA Speer,MF1/4DCT52R4990F,Mouser,660-MF1/4DCT52R4990F,Metal Film Resistors - Through Hole 1/4W 499 ohm 1% 500 OHM 1%,499R
+6,6,"R1, R2, R3, R4, R5, R6, R68, R72, R76",KOA Speer,MF1/4DCT52R1003F,Mouser,660-MF1/4D52R1003F,Metal Film Resistors - Through Hole 100Kohms 1% 100PPM,100K
+7,19,"R19, R20, R29, R31, R37, R38, R39, R41, R46, R49, R52, R53, R60, R61, R63, R64, R65, R66, R67",KOA Speer,MFS1/4CCT52R1001F,Mouser,660-MFS1/4CCT52R1001,Metal Film Resistors - Through Hole 1K ohm 1%,1K
+8,12,"R21, R22, R23, R24, R25, R28, R30, R35, R42, R43, R45, R47",KOA Speer,MF1/4DCT52R4991F,Mouser,660-MF1/4DCT52R4991F,Metal Film Resistors - Through Hole 1/4W 4.99K ohm 1%,4.99K
+9,6,"R26, R27, R48, R56, R57, R58",KOA Speer,MF1/4DCT52R2321F,Mouser,660-MF1/4DCT52R2321F,Metal Film Resistors - Through Hole 2.32Kohms 1% 100PPM,2.32K
+10,6,"R32, R33, R54, R55, R59, R62",KOA Speer,MF1/4DCT52R4992F,Mouser,660-MF1/4DCT52R4992F,Metal Film Resistors - Through Hole 49.9Kohms 1% 100PPM,49.9K
+11,3,"R13, R16, R34, R70, R74, R78",KOA Speer,MF1/4DCT52R1002F,Mouser,660-MF1/4DCT52R1002F,Metal Film Resistors - Through Hole 10Kohms 1% 100PPM,10K
+12,3,"R44, R50, R51",KOA Speer,MF1/4DCT52R1501F,Mouser,660-MF1/4DCT52R1501F,Metal Film Resistors - Through Hole 1/4W 1.5K ohm 1% 1.5K OHM 1%,1.5K
+13,2,"D1, D2",Diotec Semiconductor,1N4001,Mouser,637-1N4001,"Rectifiers Diode, DO-41, 50V, 1A",1N4001
+14,5,FB1-5,Fair-Rite,2743001111,Mouser,623-2743001111,Ferrite Beads 43 BEAD ON LEAD Z=68 OHM @ 100MHz,68R
+15,3,"U1, U2, U5",Texas Instruments,LM361N/NOPB,Mouser,926-LM361N/NOPB,Analog Comparators Hi Speed Diff Cmptr,LM361N/NOPB
+16,1,U12,Texas Instruments,TL431BQLPR,Mouser,595-TL431BQLPR,Voltage References Adjustable Precision Shunt Regulator,TL431LP
+17,1,U13,STMicroelectronics,L7805CV,Mouser,511-L7805CV,Linear Voltage Regulators 5.0V 1.0A Positive ,L7805
+18,6,"U3, U4, U6, U7, U8, U10",Texas Instuments,LM6172IN/NOPB,Mouser,926-LM6172IN/NOPB,"High Speed Operational Amplifiers Dual High Speed,Low Pwr Amp",LM6172
+19,1,U9,Texas Instuments,CD4070BE,Mouser,595-CD4070BE,Logic Gates Quad Exclusive,CD4070
+20,1,U11,Texas Instruments,TL074CN,Mouser,595-TL074CN,Operational Amplifiers - Op Amps JFET Input Low Noise,TL074
+21,12,J1-J12,Tayda Electronics,PJ-3001F,Tayda,A-2563,PJ-3001F 3.5MM MONO PHONE JACK,
+22,1,J13,Wurth Elektronik,61201021621,Mouser,710-61201021621,Headers & Wire Housings WR-BHD 2.54mm Box 10Pin Male Straight,
+23,6,"RV1, RV2, RV3, RV4, RV5, RV6",ALPHA,RD901F-40-15K-B10K,Tayda,A-4728,10K OHM LINEAR TAPER POTENTIOMETER SPLINE SHAFT PCB MOUNT 9MM,10K
+24,3,"SW1, SW2, SW3",E-Switch,EG2201B,Mouser,612-EG2201B,Slide Switches SWITCH SLIDE DPDT L=9,
+25,3,"XN1 (15pin) XN2-6 (12pin), XN7 (6pin)",GTK,40 Pin Header Strip,Tayda,A-197,40 PIN 2.54MM SINGLE ROW PIN HEADER STRIP,
+26,5,"XN2, XN3, XN4, XN5, XN6",NELTRON,2212S-12G-85,Tayda,A-7559,12 PIN 2.54MM SINGLE ROW FEMALE PIN HEADER,
+27,1,XN7,GTK,6 Female Pin Header,Tayda,A-1389,6 PIN 2.54MM SINGLE ROW FEMALE PIN HEADER,
+28,2,XN1,SparkFun,PRT-16279,Mouser,474-PRT-16279,Headers & Wire Housings Arduino Nano Stackable Header Kit,
+29,2,XN4,SparkFun,PRT-14322,Mouser,474-PRT-14322,SparkFun Accessories Photon Stackable Header- 12 Pin,
+30,6,,Tayda Electronics,Standoff Spacer M3x10mm Female Silver,Tayda,A-1242,BRASS STANDOFF SPACER SILVER SCREW HEX FEMALE M3X10MM,
+31,4,,Tayda Electronics,Standoff Spacer M3x12mm Male Golden,Tayda,A-3241,BRASS STANDOFF SPACER GOLDEN SCREW HEX MALE M3X12MM,
+32,12,,Tayda Electronics,M3 Screw 3x6mm,Tayda,A-1250,M3 STEEL SCREW CROSS ROUND HEAD M3X6MM,
+33,1,,homegrown,Hard3FPN,homegrown,Hard3FPN,HARD3 Front Panel,
+34,1,,homegrown,Hard3Ctrl,homegrown,Hard3Ctrl,HARD3 Control Board,
+35,1,,homegrown,Hard3Main,homegrown,Hard3Main,HARD3 Main Board,
+36,1,,homegrown,Hard3Pwr,homegrown,Hard3Pwr,HARD3 Power Board,
